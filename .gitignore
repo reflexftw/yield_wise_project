@@ -1,0 +1,5 @@
+#ignore Random Forest_model.pkl
+RandomForest_model.pkl
+Hybrid_model.pkl
+#ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
